@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/3-en-raya/static/css/main.15b53527.css",
+    "main.js": "/3-en-raya/static/js/main.c11ea181.js",
+    "static/js/453.daeca424.chunk.js": "/3-en-raya/static/js/453.daeca424.chunk.js",
+    "static/media/musica.mp3": "/3-en-raya/static/media/musica.f72a6c09c69ebaab88a9.mp3",
+    "static/media/fondo.jpg": "/3-en-raya/static/media/fondo.bbfcac0a0bd47b5dc86e.jpg",
+    "index.html": "/3-en-raya/index.html",
+    "main.15b53527.css.map": "/3-en-raya/static/css/main.15b53527.css.map",
+    "main.c11ea181.js.map": "/3-en-raya/static/js/main.c11ea181.js.map",
+    "453.daeca424.chunk.js.map": "/3-en-raya/static/js/453.daeca424.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15b53527.css",
+    "static/js/main.c11ea181.js"
+  ]
+}
