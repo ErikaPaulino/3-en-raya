@@ -19,3 +19,24 @@
 10. Incorporé un audio que se reproduce durante la partida.
 
 11. Probé el juego para asegurar que todo funcione bien.
+1. Creé el proyecto usando create-react-app.
+
+2. Organicé la estructura del proyecto dentro de la carpeta src.
+
+3. Implementé el tablero 3x3 usando un arreglo con useState.
+
+4. Programé los turnos alternos entre X y O.
+
+5. Agregué la lógica para detectar el ganador usando combinaciones.
+
+6. Implementé la detección de empate cuando el tablero se llena.
+
+7. Añadí un botón para reiniciar la partida.
+
+8. Personalicé el juego con nombres dominicanos (Quisqueya y Caribe).
+
+9. Agregué estilos con CSS para mejorar la apariencia.
+
+10. Incorporé un audio que se reproduce durante la partida.
+
+11. Probé el juego para asegurar que todo funcione bien.
